@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MacrogicielBOT
+- 💞️ I’m looking to collaborate on TaiStudio/Macrogiciel
+- 📫 How to reach me <tai.studio@outlook.fr>
